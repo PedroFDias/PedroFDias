@@ -1,5 +1,6 @@
 
-### Olá, eu sou Pedro Dias 👋
+## Olá, eu sou Pedro Dias 👋
+🌱 Apaixonado por tecnologia e **`desenvolvimento`**, sempre buscando aprender algo novo e aplicar meus conhecimento.
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phf.dias.2022@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pedrofdias)
@@ -9,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=PedroFDias&show_icons=true&theme=dark">
 </div>
 
-## Tecnologias que uso no meu dia a dia:
+## Linguagens e Tecnologias
 
 <div style="inline-block">
     <img align="center" alt="Imagem c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -23,9 +24,7 @@
     <img align="center" alt="Imagem Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br>
 
-##### 🌱 Apaixonado por tecnologia e desenvolvimento, sempre buscando aprender algo novo e aplicar meus conhecimento.
-
-## Conheça alguns dos meus projetos:
+## Conheça alguns dos meus projetos
 - [Casa Cidadã - Ong](https://github.com/PedroFDias/Casa-Cidada-Ong) 
 - [BoloNaHora - CRUD](https://github.com/PedroFDias/TrabalhoBD-CRUD)
 - [Login - CRUD](https://github.com/PedroFDias/CRUD-Login)
