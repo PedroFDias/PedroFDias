@@ -5,12 +5,13 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pedrofdias)
 [![WHATSAPPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31989090902)
 
-
-![Pedro Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFDias&show_icons=true&theme=dark)
+<div style="display:flex; justify-content:center">
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroFDias&show_icons=true&theme=dark">
+</div>
 
 ## Tecnologias que uso no meu dia a dia:
 
-<div style="inline-block"><br>
+<div style="inline-block">
     <img align="center" alt="Imagem c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="Imagem java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Imagem JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
