@@ -5,7 +5,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pedrofdias)
 [![WHATSAPPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31989090902)
 
-<div style="display:flex; justify-content:center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=PedroFDias&show_icons=true&theme=dark">
 </div>
 
