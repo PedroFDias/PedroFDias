@@ -2,26 +2,27 @@
 ## Olá, eu sou Pedro Dias 👋
 🌱 Apaixonado por tecnologia e **`desenvolvimento`**, sempre buscando aprender algo novo e aplicar meus conhecimento.
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phf.dias.2022@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pedrofdias)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phf.dias.2022@gmail.com)&nbsp;&nbsp;&nbsp;
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pedrofdias)&nbsp;&nbsp;&nbsp;
 [![WHATSAPPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31989090902)
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PedroFDias&show_icons=true&theme=dark">
+<div align="center"></br></br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFDias&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFDias&layout=compact&theme=dark"/>
 </div>
 
-## Linguagens e Tecnologias
-
-<div style="inline-block">
-    <img align="center" alt="Imagem c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="Imagem java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Imagem JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Imagem Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Imagem Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img align="center" alt="Imagem Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Imagem HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Imagem css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Imagem Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+##
+ 
+<div></br></br>
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;&nbsp;
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />  &nbsp;&nbsp;&nbsp;
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;            
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
 </div><br>
 
 ## Conheça alguns dos meus projetos
