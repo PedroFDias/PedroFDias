@@ -25,11 +25,12 @@
     <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
 </div><br>
 
-## Conheça alguns dos meus projetos
+## 
+Conheça alguns dos meus projetos
 - [Casa Cidadã - Ong](https://github.com/PedroFDias/Casa-Cidada-Ong) 
-- [BoloNaHora - CRUD](https://github.com/PedroFDias/TrabalhoBD-CRUD)
-- [Login - CRUD](https://github.com/PedroFDias/CRUD-Login)
-- [Vida Plena - Plataforma](https://github.com/PedroFDias/Vida-Plena)
+- [Order Mananger - API-REST Java](https://github.com/PedroFDias/TrabalhoBD-CRUD)
+- [Portifólio](https://github.com/PedroFDias/Portifolio-React-TypeScript.git) - [Visitar online](https://pedrodias-seven.vercel.app/)
+- [Buscar Fipe - API](https://github.com/PedroFDias/SeachFipe.git)
 
 <!--
 **PedroFDias/PedroFDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
