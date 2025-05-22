@@ -28,7 +28,7 @@
 ## 
 Conheça alguns dos meus projetos
 - [Casa Cidadã - Ong](https://github.com/PedroFDias/Casa-Cidada-Ong) 
-- [Order Mananger - API-REST Java](https://github.com/PedroFDias/TrabalhoBD-CRUD)
+- [Order Mananger - API-REST Java](https://github.com/PedroFDias/Order-Mananger)
 - [Portifólio](https://github.com/PedroFDias/Portifolio-React-TypeScript.git) - [Visitar online](https://pedrodias-seven.vercel.app/)
 - [Buscar Fipe - API](https://github.com/PedroFDias/SeachFipe.git)
 
